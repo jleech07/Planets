@@ -2,3 +2,4 @@ git class 2018
 hello
 red mountain
 all the gas
+very hot or very cold depending on the sun
